@@ -8,8 +8,8 @@ public class RepasoBimestre3 {
         
         
         int notas[][] = {{10, 20 , 30},
-                {40, 50, 60},
-                {70, 80, 90}};
+                         {40, 50, 60},
+                         {70, 80, 90}};
         
         
         System.out.println("la diagonalprincipal es " + diagonalPrincipal(notas));
